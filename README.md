@@ -22,9 +22,9 @@ In fact, any path that ends with any of `<..>/bin/env pypy`, `<..>/bin/env pypy3
 If you are using [Vundle](https://github.com/VundleVim/Vundle.vim), you
 can install this plug-in by adding following line:
 
-    Plugin 'loganchien/pypy-shebang-ftdect'
+    Plugin 'bulletmark/pypy-shebang-ftdect'
 
 If you are using [vim-plug](https://github.com/junegunn/vim-plug), you
 can install this plug-in by adding following line:
 
-    Plug 'loganchien/pypy-shebang-ftdect'
+    Plug 'bulletmark/pypy-shebang-ftdect'
