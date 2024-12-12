@@ -2,8 +2,8 @@
 
 ## Introduction
 
-This Vim plug-in will set the filetype to python for files which start with
-any of the following lines:
+This Vim plug-in will set the filetype to python for files which start
+with any of the following lines:
 
     #!/usr/bin/env pypy
     #!/usr/bin/env pypy3
